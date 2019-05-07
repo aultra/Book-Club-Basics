@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: Marci4
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_131
+Maven-Artifact: org.java-websocket:Java-WebSocket:1.3.8
+

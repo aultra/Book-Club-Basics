@@ -1,0 +1,32 @@
+1.0.4
+
+Mods Added
+----------
+CarryOn
+Village Names - Names for villages and their inhabitants.
+FTB Quests - Quests coming
+FTB Money - Quest rewards coming
+Player Plates - Player only obsidian pressure Plates
+Crafting Tweaks - UI mod
+Furnace Overhaul - New faster furnaces
+Iron Chests - Bigger Chests
+Simple Storage Networks - To introduce ME style storage.
+Cooking for Blockheads - Additional food options
+Farming for Blockheads - Additional farming stuff
+Ender storage - For team based storage options
+Player Skin - For use in the Content Creator Integration
+BetterFPS - To try to help Mandy with her FPS issues.
+
+Resource Pack Added
+--------------------
+Soartex Fanver Resource pack added to introduce users to resource packs.
+
+Mods Removed
+------------
+No Recipe Book - Is redundant with FastWorkbench
+
+Coming Soon
+-----------
+
+Built in presets for Content Creator Integration
+Changes to Player Skins list

@@ -1,0 +1,16 @@
+
+.ReAuth.cfg
+crash-reports
+downloads
+journeymap
+logs
+playerskinsWhitelist
+resourcepacks
+saves
+manifest.json
+minecraftinstance.json
+options.txt
+realms_persistence.json
+servers.dat
+usercache.json
+usernamecache.json

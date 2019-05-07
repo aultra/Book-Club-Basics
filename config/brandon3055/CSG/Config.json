@@ -1,0 +1,10 @@
+{
+  "inventory": {
+    "0:4": "minecraft:leather_boots",
+    "0:8": "torchmaster:mega_torch",
+    "0:0": "minecraft:iron_sword",
+    "0:2": "minecraft:leather_chestplate",
+    "0:1": "minecraft:leather_helmet",
+    "0:3": "minecraft:leather_leggings"
+  }
+}
